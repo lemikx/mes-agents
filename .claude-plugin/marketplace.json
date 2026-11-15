@@ -1,0 +1,7 @@
+{
+  "name": "mes-agents",
+  "owner": { "name": "lemikx" },
+  "plugins": [
+    { "name": "mes-agents", "source": "./", "description": "Expert informatique, sous-agents Haiku/Sonnet et skills techniques" }
+  ]
+}
